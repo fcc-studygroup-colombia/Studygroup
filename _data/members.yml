@@ -1,6 +1,82 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Laura Peralta
+  interests:
+    - Graphic Design
+    
+- name: Guillermo Martínez
+  interests:
+    - Game Programming
+
+- name: Erika
   interests:
     - Programming
-    - Open Science
+    
+- name: Daniel Mauricio
+  interests:
+    - Computer Science
+    
+- name: Eduardo
+  interests:
+  - Programming
+    
+- name: Santiago
+  interests:
+  - Programming
+  
+- name: Diego Camacho
+  interests:
+  - Computer Science
+  
+- name: Esteban Palacio
+  interests:
+  - Mechanical Engineering
+  - Programming
+
+- name: Diego
+  interests:
+  - Mechanical Engineering
+  - Programming
+  
+- name: Jorge
+  interests:    
+  - Functional Programming 
+
+- name: Juan Fernando
+  interests:    
+  - Chemical Engineering
+  - Programming
+  
+- name: Jorge Naranjo
+  interests:    
+  - Entrepreneurship
+  
+- name: Santiago Agudelo
+  interests:    
+  - Entrepreneurship
+  - Tech
+  
+- name: Mónica Jaimes
+  interests:    
+  - Social Engineering
+  - Distributed Programming
+  - Leadership
+  
+- name: Albéniz Martínez
+  interests:    
+  - Entrepreneurship
+  
+- name: Juan Sebastian
+  interests:    
+  - Electronic Engineering
+  - Programming
+  - Projects Management  
+  
+- name: Luis Eduardo
+  interests:    
+  - Cybersecurity
+  - Networks
+  
+- name: José Calderón
+  interests:    
+  - Entrepreneurship
+  - Game Design
+  - Computer Science
