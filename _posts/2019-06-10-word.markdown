@@ -1,0 +1,10 @@
+---
+title: Monday Meeting
+text: Meeting to the do feedback of all study group
+location: Ask to the Study Group Leader
+link: Ask to the Study Group Leader
+date: 2019-06-10
+startTime: '10:00'
+endTime: '10:30'
+
+---
